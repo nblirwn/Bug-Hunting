@@ -1,0 +1,4 @@
+@font-face {
+    font-family: 'Malicious';
+    src: url('http://host.docker.internal:8081/shell.php');
+}
